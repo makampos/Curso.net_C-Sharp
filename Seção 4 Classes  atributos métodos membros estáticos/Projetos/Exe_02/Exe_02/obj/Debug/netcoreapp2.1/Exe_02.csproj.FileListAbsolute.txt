@@ -1,0 +1,11 @@
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_02\Exe_02\bin\Debug\netcoreapp2.1\Exe_02.deps.json
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_02\Exe_02\bin\Debug\netcoreapp2.1\Exe_02.runtimeconfig.json
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_02\Exe_02\bin\Debug\netcoreapp2.1\Exe_02.runtimeconfig.dev.json
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_02\Exe_02\bin\Debug\netcoreapp2.1\Exe_02.dll
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_02\Exe_02\bin\Debug\netcoreapp2.1\Exe_02.pdb
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_02\Exe_02\obj\Debug\netcoreapp2.1\Exe_02.csprojAssemblyReference.cache
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_02\Exe_02\obj\Debug\netcoreapp2.1\Exe_02.csproj.CoreCompileInputs.cache
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_02\Exe_02\obj\Debug\netcoreapp2.1\Exe_02.AssemblyInfoInputs.cache
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_02\Exe_02\obj\Debug\netcoreapp2.1\Exe_02.AssemblyInfo.cs
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_02\Exe_02\obj\Debug\netcoreapp2.1\Exe_02.dll
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_02\Exe_02\obj\Debug\netcoreapp2.1\Exe_02.pdb
