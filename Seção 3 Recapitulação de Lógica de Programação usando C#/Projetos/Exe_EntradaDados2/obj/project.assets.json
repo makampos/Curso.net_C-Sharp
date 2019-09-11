@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\macampos\\Documents\\Curso.net_C-Sharp\\Seção 3 Recapitulação de Lógica de Programação usando C#\\Projetos\\Exe_EntradaDados\\Exe_EntradaDados.csproj",
-      "projectName": "Exe_EntradaDados",
-      "projectPath": "C:\\Users\\macampos\\Documents\\Curso.net_C-Sharp\\Seção 3 Recapitulação de Lógica de Programação usando C#\\Projetos\\Exe_EntradaDados\\Exe_EntradaDados.csproj",
+      "projectUniqueName": "C:\\Users\\macampos\\Documents\\Curso.net_C-Sharp\\Seção 3 Recapitulação de Lógica de Programação usando C#\\Projetos\\Exe_EntradaDados2\\Exe_EntradaDados2.csproj",
+      "projectName": "Exe_EntradaDados2",
+      "projectPath": "C:\\Users\\macampos\\Documents\\Curso.net_C-Sharp\\Seção 3 Recapitulação de Lógica de Programação usando C#\\Projetos\\Exe_EntradaDados2\\Exe_EntradaDados2.csproj",
       "packagesPath": "C:\\Users\\macampos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\macampos\\Documents\\Curso.net_C-Sharp\\Seção 3 Recapitulação de Lógica de Programação usando C#\\Projetos\\Exe_EntradaDados\\obj\\",
+      "outputPath": "C:\\Users\\macampos\\Documents\\Curso.net_C-Sharp\\Seção 3 Recapitulação de Lógica de Programação usando C#\\Projetos\\Exe_EntradaDados2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

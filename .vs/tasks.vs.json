@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-Program",
+      "appliesTo": "Seção 3 Recapitulação de Lógica de Programação usando C#/Projetos/Exe_EntradaDados2/Program.cs",
+      "type": "launch"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_EntradaDados2\bin\Debug\netcoreapp2.1\Exe_EntradaDados2.deps.json
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_EntradaDados2\bin\Debug\netcoreapp2.1\Exe_EntradaDados2.runtimeconfig.json
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_EntradaDados2\bin\Debug\netcoreapp2.1\Exe_EntradaDados2.runtimeconfig.dev.json
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_EntradaDados2\bin\Debug\netcoreapp2.1\Exe_EntradaDados2.dll
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_EntradaDados2\bin\Debug\netcoreapp2.1\Exe_EntradaDados2.pdb
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_EntradaDados2\obj\Debug\netcoreapp2.1\Exe_EntradaDados2.csprojAssemblyReference.cache
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_EntradaDados2\obj\Debug\netcoreapp2.1\Exe_EntradaDados2.csproj.CoreCompileInputs.cache
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_EntradaDados2\obj\Debug\netcoreapp2.1\Exe_EntradaDados2.AssemblyInfoInputs.cache
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_EntradaDados2\obj\Debug\netcoreapp2.1\Exe_EntradaDados2.AssemblyInfo.cs
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_EntradaDados2\obj\Debug\netcoreapp2.1\Exe_EntradaDados2.dll
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_EntradaDados2\obj\Debug\netcoreapp2.1\Exe_EntradaDados2.pdb
