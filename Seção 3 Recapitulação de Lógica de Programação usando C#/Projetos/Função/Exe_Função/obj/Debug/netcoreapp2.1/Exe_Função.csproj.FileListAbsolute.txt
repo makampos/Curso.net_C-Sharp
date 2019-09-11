@@ -1,0 +1,10 @@
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Função\Exe_Função\bin\Debug\netcoreapp2.1\Exe_Função.deps.json
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Função\Exe_Função\bin\Debug\netcoreapp2.1\Exe_Função.runtimeconfig.json
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Função\Exe_Função\bin\Debug\netcoreapp2.1\Exe_Função.runtimeconfig.dev.json
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Função\Exe_Função\bin\Debug\netcoreapp2.1\Exe_Função.dll
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Função\Exe_Função\bin\Debug\netcoreapp2.1\Exe_Função.pdb
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Função\Exe_Função\obj\Debug\netcoreapp2.1\Exe_Função.csproj.CoreCompileInputs.cache
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Função\Exe_Função\obj\Debug\netcoreapp2.1\Exe_Função.AssemblyInfoInputs.cache
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Função\Exe_Função\obj\Debug\netcoreapp2.1\Exe_Função.AssemblyInfo.cs
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Função\Exe_Função\obj\Debug\netcoreapp2.1\Exe_Função.dll
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Função\Exe_Função\obj\Debug\netcoreapp2.1\Exe_Função.pdb
