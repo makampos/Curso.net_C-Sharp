@@ -1,0 +1,22 @@
+C:\Users\macampos\Documents\Curso_c-sharp\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\obj\Debug\netcoreapp2.1\Exe_01.csprojAssemblyReference.cache
+C:\Users\macampos\Documents\Curso_c-sharp\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\obj\Debug\netcoreapp2.1\Exe_01.csproj.CoreCompileInputs.cache
+C:\Users\macampos\Documents\Curso_c-sharp\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\obj\Debug\netcoreapp2.1\Exe_01.AssemblyInfoInputs.cache
+C:\Users\macampos\Documents\Curso_c-sharp\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\obj\Debug\netcoreapp2.1\Exe_01.AssemblyInfo.cs
+C:\Users\macampos\Documents\Curso_c-sharp\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\bin\Debug\netcoreapp2.1\Exe_01.deps.json
+C:\Users\macampos\Documents\Curso_c-sharp\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\bin\Debug\netcoreapp2.1\Exe_01.runtimeconfig.json
+C:\Users\macampos\Documents\Curso_c-sharp\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\bin\Debug\netcoreapp2.1\Exe_01.runtimeconfig.dev.json
+C:\Users\macampos\Documents\Curso_c-sharp\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\bin\Debug\netcoreapp2.1\Exe_01.dll
+C:\Users\macampos\Documents\Curso_c-sharp\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\bin\Debug\netcoreapp2.1\Exe_01.pdb
+C:\Users\macampos\Documents\Curso_c-sharp\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\obj\Debug\netcoreapp2.1\Exe_01.dll
+C:\Users\macampos\Documents\Curso_c-sharp\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\obj\Debug\netcoreapp2.1\Exe_01.pdb
+C:\Users\macampos\Documents\Curso C# POO\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\bin\Debug\netcoreapp2.1\Exe_01.deps.json
+C:\Users\macampos\Documents\Curso C# POO\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\bin\Debug\netcoreapp2.1\Exe_01.runtimeconfig.json
+C:\Users\macampos\Documents\Curso C# POO\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\bin\Debug\netcoreapp2.1\Exe_01.runtimeconfig.dev.json
+C:\Users\macampos\Documents\Curso C# POO\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\bin\Debug\netcoreapp2.1\Exe_01.dll
+C:\Users\macampos\Documents\Curso C# POO\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\bin\Debug\netcoreapp2.1\Exe_01.pdb
+C:\Users\macampos\Documents\Curso C# POO\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\obj\Debug\netcoreapp2.1\Exe_01.csprojAssemblyReference.cache
+C:\Users\macampos\Documents\Curso C# POO\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\obj\Debug\netcoreapp2.1\Exe_01.csproj.CoreCompileInputs.cache
+C:\Users\macampos\Documents\Curso C# POO\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\obj\Debug\netcoreapp2.1\Exe_01.AssemblyInfoInputs.cache
+C:\Users\macampos\Documents\Curso C# POO\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\obj\Debug\netcoreapp2.1\Exe_01.AssemblyInfo.cs
+C:\Users\macampos\Documents\Curso C# POO\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\obj\Debug\netcoreapp2.1\Exe_01.dll
+C:\Users\macampos\Documents\Curso C# POO\Seção 3 Recapitulação de Lógica de Programação usando C#\Projetos\Exe_01\obj\Debug\netcoreapp2.1\Exe_01.pdb

@@ -1,0 +1,22 @@
+C:\Users\matheus.campos\Documents\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\bin\Debug\netcoreapp2.1\ProjetoInicial.deps.json
+C:\Users\matheus.campos\Documents\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\bin\Debug\netcoreapp2.1\ProjetoInicial.runtimeconfig.json
+C:\Users\matheus.campos\Documents\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\bin\Debug\netcoreapp2.1\ProjetoInicial.runtimeconfig.dev.json
+C:\Users\matheus.campos\Documents\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\bin\Debug\netcoreapp2.1\ProjetoInicial.dll
+C:\Users\matheus.campos\Documents\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\bin\Debug\netcoreapp2.1\ProjetoInicial.pdb
+C:\Users\matheus.campos\Documents\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\obj\Debug\netcoreapp2.1\ProjetoInicial.csprojAssemblyReference.cache
+C:\Users\matheus.campos\Documents\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\obj\Debug\netcoreapp2.1\ProjetoInicial.csproj.CoreCompileInputs.cache
+C:\Users\matheus.campos\Documents\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\obj\Debug\netcoreapp2.1\ProjetoInicial.AssemblyInfoInputs.cache
+C:\Users\matheus.campos\Documents\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\obj\Debug\netcoreapp2.1\ProjetoInicial.AssemblyInfo.cs
+C:\Users\matheus.campos\Documents\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\obj\Debug\netcoreapp2.1\ProjetoInicial.dll
+C:\Users\matheus.campos\Documents\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\obj\Debug\netcoreapp2.1\ProjetoInicial.pdb
+C:\Users\macampos\Documents\Curso C# POO\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\bin\Debug\netcoreapp2.1\ProjetoInicial.deps.json
+C:\Users\macampos\Documents\Curso C# POO\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\bin\Debug\netcoreapp2.1\ProjetoInicial.runtimeconfig.json
+C:\Users\macampos\Documents\Curso C# POO\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\bin\Debug\netcoreapp2.1\ProjetoInicial.runtimeconfig.dev.json
+C:\Users\macampos\Documents\Curso C# POO\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\bin\Debug\netcoreapp2.1\ProjetoInicial.dll
+C:\Users\macampos\Documents\Curso C# POO\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\bin\Debug\netcoreapp2.1\ProjetoInicial.pdb
+C:\Users\macampos\Documents\Curso C# POO\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\obj\Debug\netcoreapp2.1\ProjetoInicial.csprojAssemblyReference.cache
+C:\Users\macampos\Documents\Curso C# POO\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\obj\Debug\netcoreapp2.1\ProjetoInicial.csproj.CoreCompileInputs.cache
+C:\Users\macampos\Documents\Curso C# POO\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\obj\Debug\netcoreapp2.1\ProjetoInicial.AssemblyInfoInputs.cache
+C:\Users\macampos\Documents\Curso C# POO\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\obj\Debug\netcoreapp2.1\ProjetoInicial.AssemblyInfo.cs
+C:\Users\macampos\Documents\Curso C# POO\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\obj\Debug\netcoreapp2.1\ProjetoInicial.dll
+C:\Users\macampos\Documents\Curso C# POO\Seção 2 Introdução a C# e .NET\Projetos\ProjetoInicial\ProjetoInicial\obj\Debug\netcoreapp2.1\ProjetoInicial.pdb
