@@ -9,3 +9,14 @@ C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 4 Classes, atributos
 C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 4 Classes, atributos, métodos, membros estáticos\Projetos\Exe_Triangulo\Exe_Triangulo\obj\Debug\netcoreapp2.1\Exe_Triangulo.AssemblyInfo.cs
 C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 4 Classes, atributos, métodos, membros estáticos\Projetos\Exe_Triangulo\Exe_Triangulo\obj\Debug\netcoreapp2.1\Exe_Triangulo.dll
 C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 4 Classes, atributos, métodos, membros estáticos\Projetos\Exe_Triangulo\Exe_Triangulo\obj\Debug\netcoreapp2.1\Exe_Triangulo.pdb
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_Triangulo\Exe_Triangulo\bin\Debug\netcoreapp2.1\Exe_Triangulo.deps.json
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_Triangulo\Exe_Triangulo\bin\Debug\netcoreapp2.1\Exe_Triangulo.runtimeconfig.json
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_Triangulo\Exe_Triangulo\bin\Debug\netcoreapp2.1\Exe_Triangulo.runtimeconfig.dev.json
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_Triangulo\Exe_Triangulo\bin\Debug\netcoreapp2.1\Exe_Triangulo.dll
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_Triangulo\Exe_Triangulo\bin\Debug\netcoreapp2.1\Exe_Triangulo.pdb
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_Triangulo\Exe_Triangulo\obj\Debug\netcoreapp2.1\Exe_Triangulo.csprojAssemblyReference.cache
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_Triangulo\Exe_Triangulo\obj\Debug\netcoreapp2.1\Exe_Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_Triangulo\Exe_Triangulo\obj\Debug\netcoreapp2.1\Exe_Triangulo.AssemblyInfoInputs.cache
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_Triangulo\Exe_Triangulo\obj\Debug\netcoreapp2.1\Exe_Triangulo.AssemblyInfo.cs
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_Triangulo\Exe_Triangulo\obj\Debug\netcoreapp2.1\Exe_Triangulo.dll
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_Triangulo\Exe_Triangulo\obj\Debug\netcoreapp2.1\Exe_Triangulo.pdb
