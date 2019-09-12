@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Globalization;
 
 namespace Exe_03
 {
@@ -10,19 +11,28 @@ namespace Exe_03
         public double Preco;
         public int Quantidade;
 
-        public double ValorTotalEmEstoque(double preco, int quantidade)
+        public double ValorTotalEmEstoque()
         {
-            return quantidade * preco;
+            return Preco * Quantidade;
+        }
+    
+        public void RemoverProdutos(int quantidade)
+        {
+            Quantidade -= quantidade;
         }
 
-        public void ValorTotalEmEstoque()
+        public void AdicionarProdutos(int quantidade)
         {
-            Preco = Quantidade * Preco;
+            Quantidade += quantidade;
         }
 
-        public void RemoverProdtos(int quantity)
+        public override string ToString()
         {
-           
+            return Nome + " $ " + Preco.ToString("F2", CultureInfo.InvariantCulture)
+                + ", "
+                + Quantidade
+                + " unidades, Total: $ "
+                + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);                     
         }
     }
 }
