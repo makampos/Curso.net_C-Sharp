@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\matheus.campos\\.nuget\\packages\\": {},
+    "C:\\Users\\macampos\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matheus.campos\\Documents\\Curso.net_C-Sharp\\Seção 4 Classes  atributos métodos membros estáticos\\Projetos\\Exe_02\\Exe_02\\Exe_02.csproj",
+      "projectUniqueName": "C:\\Users\\macampos\\Documents\\Curso.net_C-Sharp\\Seção 4 Classes  atributos métodos membros estáticos\\Projetos\\Exe_02\\Exe_02\\Exe_02.csproj",
       "projectName": "Exe_02",
-      "projectPath": "C:\\Users\\matheus.campos\\Documents\\Curso.net_C-Sharp\\Seção 4 Classes  atributos métodos membros estáticos\\Projetos\\Exe_02\\Exe_02\\Exe_02.csproj",
-      "packagesPath": "C:\\Users\\matheus.campos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matheus.campos\\Documents\\Curso.net_C-Sharp\\Seção 4 Classes  atributos métodos membros estáticos\\Projetos\\Exe_02\\Exe_02\\obj\\",
+      "projectPath": "C:\\Users\\macampos\\Documents\\Curso.net_C-Sharp\\Seção 4 Classes  atributos métodos membros estáticos\\Projetos\\Exe_02\\Exe_02\\Exe_02.csproj",
+      "packagesPath": "C:\\Users\\macampos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\macampos\\Documents\\Curso.net_C-Sharp\\Seção 4 Classes  atributos métodos membros estáticos\\Projetos\\Exe_02\\Exe_02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\matheus.campos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\macampos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

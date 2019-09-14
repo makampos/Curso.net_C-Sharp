@@ -1,0 +1,11 @@
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_prop_02\bin\Debug\netcoreapp2.1\Exe_prop_02.deps.json
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_prop_02\bin\Debug\netcoreapp2.1\Exe_prop_02.runtimeconfig.json
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_prop_02\bin\Debug\netcoreapp2.1\Exe_prop_02.runtimeconfig.dev.json
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_prop_02\bin\Debug\netcoreapp2.1\Exe_prop_02.dll
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_prop_02\bin\Debug\netcoreapp2.1\Exe_prop_02.pdb
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_prop_02\obj\Debug\netcoreapp2.1\Exe_prop_02.csprojAssemblyReference.cache
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_prop_02\obj\Debug\netcoreapp2.1\Exe_prop_02.csproj.CoreCompileInputs.cache
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_prop_02\obj\Debug\netcoreapp2.1\Exe_prop_02.AssemblyInfoInputs.cache
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_prop_02\obj\Debug\netcoreapp2.1\Exe_prop_02.AssemblyInfo.cs
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_prop_02\obj\Debug\netcoreapp2.1\Exe_prop_02.dll
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Exe_prop_02\obj\Debug\netcoreapp2.1\Exe_prop_02.pdb
