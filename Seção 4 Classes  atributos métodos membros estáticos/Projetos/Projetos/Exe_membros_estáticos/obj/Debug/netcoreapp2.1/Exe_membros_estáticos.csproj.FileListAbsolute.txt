@@ -1,0 +1,11 @@
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Projetos\Exe_membros_estáticos\bin\Debug\netcoreapp2.1\Exe_membros_estáticos.deps.json
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Projetos\Exe_membros_estáticos\bin\Debug\netcoreapp2.1\Exe_membros_estáticos.runtimeconfig.json
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Projetos\Exe_membros_estáticos\bin\Debug\netcoreapp2.1\Exe_membros_estáticos.runtimeconfig.dev.json
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Projetos\Exe_membros_estáticos\bin\Debug\netcoreapp2.1\Exe_membros_estáticos.dll
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Projetos\Exe_membros_estáticos\bin\Debug\netcoreapp2.1\Exe_membros_estáticos.pdb
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Projetos\Exe_membros_estáticos\obj\Debug\netcoreapp2.1\Exe_membros_estáticos.csprojAssemblyReference.cache
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Projetos\Exe_membros_estáticos\obj\Debug\netcoreapp2.1\Exe_membros_estáticos.csproj.CoreCompileInputs.cache
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Projetos\Exe_membros_estáticos\obj\Debug\netcoreapp2.1\Exe_membros_estáticos.AssemblyInfoInputs.cache
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Projetos\Exe_membros_estáticos\obj\Debug\netcoreapp2.1\Exe_membros_estáticos.AssemblyInfo.cs
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Projetos\Exe_membros_estáticos\obj\Debug\netcoreapp2.1\Exe_membros_estáticos.dll
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 4 Classes  atributos métodos membros estáticos\Projetos\Projetos\Exe_membros_estáticos\obj\Debug\netcoreapp2.1\Exe_membros_estáticos.pdb
