@@ -1,0 +1,11 @@
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 5 Construtores  palavra this sobrecarga encapsulamento\Projetos\Exe_fixação\bin\Debug\netcoreapp2.1\Exe_fixação.deps.json
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 5 Construtores  palavra this sobrecarga encapsulamento\Projetos\Exe_fixação\bin\Debug\netcoreapp2.1\Exe_fixação.runtimeconfig.json
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 5 Construtores  palavra this sobrecarga encapsulamento\Projetos\Exe_fixação\bin\Debug\netcoreapp2.1\Exe_fixação.runtimeconfig.dev.json
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 5 Construtores  palavra this sobrecarga encapsulamento\Projetos\Exe_fixação\bin\Debug\netcoreapp2.1\Exe_fixação.dll
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 5 Construtores  palavra this sobrecarga encapsulamento\Projetos\Exe_fixação\bin\Debug\netcoreapp2.1\Exe_fixação.pdb
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 5 Construtores  palavra this sobrecarga encapsulamento\Projetos\Exe_fixação\obj\Debug\netcoreapp2.1\Exe_fixação.csprojAssemblyReference.cache
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 5 Construtores  palavra this sobrecarga encapsulamento\Projetos\Exe_fixação\obj\Debug\netcoreapp2.1\Exe_fixação.csproj.CoreCompileInputs.cache
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 5 Construtores  palavra this sobrecarga encapsulamento\Projetos\Exe_fixação\obj\Debug\netcoreapp2.1\Exe_fixação.AssemblyInfoInputs.cache
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 5 Construtores  palavra this sobrecarga encapsulamento\Projetos\Exe_fixação\obj\Debug\netcoreapp2.1\Exe_fixação.AssemblyInfo.cs
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 5 Construtores  palavra this sobrecarga encapsulamento\Projetos\Exe_fixação\obj\Debug\netcoreapp2.1\Exe_fixação.dll
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 5 Construtores  palavra this sobrecarga encapsulamento\Projetos\Exe_fixação\obj\Debug\netcoreapp2.1\Exe_fixação.pdb
