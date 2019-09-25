@@ -1,0 +1,11 @@
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 6 Comportamento de memoria arrays listas\Projetos\Problema1\Problema1\Problema1\bin\Debug\netcoreapp2.1\Problema1.deps.json
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 6 Comportamento de memoria arrays listas\Projetos\Problema1\Problema1\Problema1\bin\Debug\netcoreapp2.1\Problema1.runtimeconfig.json
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 6 Comportamento de memoria arrays listas\Projetos\Problema1\Problema1\Problema1\bin\Debug\netcoreapp2.1\Problema1.runtimeconfig.dev.json
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 6 Comportamento de memoria arrays listas\Projetos\Problema1\Problema1\Problema1\bin\Debug\netcoreapp2.1\Problema1.dll
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 6 Comportamento de memoria arrays listas\Projetos\Problema1\Problema1\Problema1\bin\Debug\netcoreapp2.1\Problema1.pdb
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 6 Comportamento de memoria arrays listas\Projetos\Problema1\Problema1\Problema1\obj\Debug\netcoreapp2.1\Problema1.csprojAssemblyReference.cache
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 6 Comportamento de memoria arrays listas\Projetos\Problema1\Problema1\Problema1\obj\Debug\netcoreapp2.1\Problema1.csproj.CoreCompileInputs.cache
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 6 Comportamento de memoria arrays listas\Projetos\Problema1\Problema1\Problema1\obj\Debug\netcoreapp2.1\Problema1.AssemblyInfoInputs.cache
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 6 Comportamento de memoria arrays listas\Projetos\Problema1\Problema1\Problema1\obj\Debug\netcoreapp2.1\Problema1.AssemblyInfo.cs
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 6 Comportamento de memoria arrays listas\Projetos\Problema1\Problema1\Problema1\obj\Debug\netcoreapp2.1\Problema1.dll
+C:\Users\matheus.campos\Documents\Curso.net_C-Sharp\Seção 6 Comportamento de memoria arrays listas\Projetos\Problema1\Problema1\Problema1\obj\Debug\netcoreapp2.1\Problema1.pdb

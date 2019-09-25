@@ -21,12 +21,12 @@ namespace Exe_fixação
 
         }
 
-        public Conta(string nome, double numeroConta, double valorDeposito ,double saldo)
+        public Conta(string nome, double numeroConta, double valorDeposito )
         {
             _nome = nome;
             _numeroConta = numeroConta;
             _valorDeposito = valorDeposito;
-            _saldo = saldo;
+            Depositar(valorDeposito);
         }
 
         public string Nome
