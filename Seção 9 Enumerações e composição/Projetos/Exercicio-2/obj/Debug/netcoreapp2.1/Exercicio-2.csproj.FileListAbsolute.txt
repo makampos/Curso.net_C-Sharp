@@ -1,0 +1,11 @@
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 9 Enumerações e composição\Projetos\Exercicio-2\bin\Debug\netcoreapp2.1\Exercicio-2.deps.json
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 9 Enumerações e composição\Projetos\Exercicio-2\bin\Debug\netcoreapp2.1\Exercicio-2.runtimeconfig.json
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 9 Enumerações e composição\Projetos\Exercicio-2\bin\Debug\netcoreapp2.1\Exercicio-2.runtimeconfig.dev.json
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 9 Enumerações e composição\Projetos\Exercicio-2\bin\Debug\netcoreapp2.1\Exercicio-2.dll
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 9 Enumerações e composição\Projetos\Exercicio-2\bin\Debug\netcoreapp2.1\Exercicio-2.pdb
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 9 Enumerações e composição\Projetos\Exercicio-2\obj\Debug\netcoreapp2.1\Exercicio-2.csprojAssemblyReference.cache
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 9 Enumerações e composição\Projetos\Exercicio-2\obj\Debug\netcoreapp2.1\Exercicio-2.csproj.CoreCompileInputs.cache
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 9 Enumerações e composição\Projetos\Exercicio-2\obj\Debug\netcoreapp2.1\Exercicio-2.AssemblyInfoInputs.cache
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 9 Enumerações e composição\Projetos\Exercicio-2\obj\Debug\netcoreapp2.1\Exercicio-2.AssemblyInfo.cs
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 9 Enumerações e composição\Projetos\Exercicio-2\obj\Debug\netcoreapp2.1\Exercicio-2.dll
+C:\Users\macampos\Documents\Curso.net_C-Sharp\Seção 9 Enumerações e composição\Projetos\Exercicio-2\obj\Debug\netcoreapp2.1\Exercicio-2.pdb
